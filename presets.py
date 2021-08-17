@@ -3,8 +3,7 @@
 class Presets(object):
     CAPTION_TEXT_DOC = "\n\n<b>File Name:</b> {}\n\n<b>Format:</b> {}\n<b>Size:</b> {}"
     CAPTION_TEXT_VID = "\n\n<b>File Name:</b> {}\n\n<b>Size:</b> {}"
-    ASK_PM_TEXT = "<b>👇Click the below button
-@request_moviesorseries👇 </b>"
+    ASK_PM_TEXT = "<b>👇Click the below button @request_moviesorseries👇</b>"
     WELCOME_TEXT = "Hello.. <b>{}</b>\n<code>I can help you getting movies from</code> @request_moviesorseries. " \
                    
     CLEAN_CHAT_MSG = "⚠️ <b>Deleting all messages..</b>"
